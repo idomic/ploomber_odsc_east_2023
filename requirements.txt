@@ -1,0 +1,7 @@
+jupysql
+jupyterlab
+duckdb
+duckdb-engine
+seaborn
+scikit-learn
+xgboost
