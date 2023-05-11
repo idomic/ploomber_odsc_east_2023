@@ -30,5 +30,8 @@ Once that's done, you can run the jupyter lab using this command (make sure you'
 `jupyter lab`
 
 Once you have the jupyter running, please open `odsc.ipynb` (you can double click it).
-
-![JupySQL QR Code](_static/QR.png)
+<p align="center" style="margin-left: auto;
+  margin-right: auto;
+  width: 60%;">
+    <img src="_static/QR.png" alt="JupySQL QR Code">
+</p>
