@@ -6,6 +6,9 @@ those who will churn (leave the company) and those who will not churn (remain wi
 
 This is a binary classification problem since there are only two possible outcomes (churn or not churn) for each customer.
 
+<p align="center">
+  <a href="https://binder.ploomber.io/v2/gh/idomic/ploomber_odsc_east_2023/master?urlpath=lab/tree/odsc.ipynb"> <img src="_static/get-started.svg" alt="Get Started"> </a>
+</p>
 
 ## Table of Content:
 1. Introduction of the problem, use case, and background story. 
@@ -27,3 +30,5 @@ Once that's done, you can run the jupyter lab using this command (make sure you'
 `jupyter lab`
 
 Once you have the jupyter running, please open `odsc.ipynb` (you can double click it).
+
+![JupySQL QR Code](QR.png)
