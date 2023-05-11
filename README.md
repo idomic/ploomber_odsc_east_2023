@@ -7,7 +7,7 @@ those who will churn (leave the company) and those who will not churn (remain wi
 This is a binary classification problem since there are only two possible outcomes (churn or not churn) for each customer.
 
 <p align="center">
-  <a href="https://binder.ploomber.io/v2/gh/idomic/ploomber_odsc_east_2023/master?urlpath=lab/tree/odsc.ipynb"> <img src="_static/get-started.svg" alt="Get Started"> </a>
+  <a href="https://binder.ploomber.io/v2/gh/idomic/ploomber_odsc_east_2023/main?urlpath=lab/tree/odsc.ipynb"> <img src="_static/get-started.svg" alt="Get Started"> </a>
 </p>
 
 ## Table of Content:
