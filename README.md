@@ -31,4 +31,4 @@ Once that's done, you can run the jupyter lab using this command (make sure you'
 
 Once you have the jupyter running, please open `odsc.ipynb` (you can double click it).
 
-![JupySQL QR Code](QR.png)
+![JupySQL QR Code](_static/QR.png)
